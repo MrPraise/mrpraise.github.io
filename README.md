@@ -1,5 +1,3 @@
-# Praise Amonye's Professional Portfolio
-
 ## Contact Information
 - **Email:** amonyepraise@gmail.com
 - **Phone:** (+229) 58730474

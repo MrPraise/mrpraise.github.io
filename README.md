@@ -1,6 +1,5 @@
 # Site settings
-title: Praise Amonye's Professional Portfolio
-theme: jekyll-theme-minimal
+
 email: amonyepraise@gmail.com
 description: >-
   Enthusiastic advocate for the intersection of mathematics, artificial intelligence, and scientific advancement. Committed to leveraging cutting-edge technologies to drive innovation and discovery.

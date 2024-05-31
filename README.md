@@ -2,7 +2,7 @@
 
 # Praise Amonye's Professional Portfolio
 
-![LinkedIn](assets/LinkedIn.jpg)
+![LinkedIn](assets/LinkedIn3.jpg)
 
 - **Email:** amonyepraise@gmail.com
 

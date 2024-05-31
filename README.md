@@ -1,3 +1,5 @@
+
+
 # Praise Amonye's Professional Portfolio
 
 ![LinkedIn](assets/LinkedIn.jpg)
@@ -9,7 +11,7 @@ As an enthusiastic advocate for the intersection of mathematics, artificial inte
 
 ## Education
 - **Masters in Financial Engineering** (07/06/2023 – Present)  
-  WorldQuant University, New Orleans, United States (Online)  
+  WorldQuant University, New Orleans, United States  
   [Website](https://www.wqu.edu)
 
 - **Kaggle Certification** (16/10/2023 – 19/01/2024)  

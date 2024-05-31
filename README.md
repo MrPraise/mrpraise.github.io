@@ -1,13 +1,14 @@
 
 
-# Praise Amonye's Professional Portfolio
+# **Professional Portfolio**
+
 
 ![LinkedIn](assets/LinkedIn.jpg)
-
+**I am Praise Amonye**
 - **Email:** amonyepraise@gmail.com
 
 ## About Me
-As an enthusiastic advocate for the intersection of mathematics, artificial intelligence, and scientific advancement, I bring a dynamic blend of skills and passion to the table. With a background rooted in pure and applied mathematics, I am committed to leveraging cutting-edge technologies to drive innovation and discovery. Eager to collaborate with like-minded individuals and contribute meaningfully to transformative work, I am poised to embark on a journey of exploration, creativity, and impactful scientific breakthroughs.
+I am enthusiastic advocate for the intersection of mathematics, artificial intelligence, and scientific advancement, I bring a dynamic blend of skills and passion to the table. With a background rooted in pure and applied mathematics, I am committed to leveraging cutting-edge technologies to drive innovation and discovery. Eager to collaborate with like-minded individuals and contribute meaningfully to transformative work, I am poised to embark on a journey of exploration, creativity, and impactful scientific breakthroughs.
 
 ## Education
 - **Masters in Financial Engineering** (07/06/2023 – Present)  

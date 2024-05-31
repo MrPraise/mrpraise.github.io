@@ -1,6 +1,6 @@
 # Praise Amonye's Professional Portfolio
 
-![LinkedIn](assets/LinkedIn.jpg)
+![LinkedIn](assets/LinkedIn1.jpg)
 
 - **Email:** amonyepraise@gmail.com
 - **Phone:** (+229) 58730474

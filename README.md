@@ -3,9 +3,6 @@
 ![LinkedIn](assets/LinkedIn2.jpg)
 
 - **Email:** amonyepraise@gmail.com
-- **Phone:** (+229) 58730474
-- **Address:** Number 328, Minonkpo, Gbejromede, Cotonou, Benin Republic
-- **Nationality:** Nigerian
 
 ## About Me
 As an enthusiastic advocate for the intersection of mathematics, artificial intelligence, and scientific advancement, I bring a dynamic blend of skills and passion to the table. With a background rooted in pure and applied mathematics, I am committed to leveraging cutting-edge technologies to drive innovation and discovery. Eager to collaborate with like-minded individuals and contribute meaningfully to transformative work, I am poised to embark on a journey of exploration, creativity, and impactful scientific breakthroughs.

@@ -1,4 +1,7 @@
 # Praise Amonye's Professional Portfolio
+
+![LinkedIn](assets/LinkedIn.jpg)
+
 - **Email:** amonyepraise@gmail.com
 - **Phone:** (+229) 58730474
 - **Address:** Number 328, Minonkpo, Gbejromede, Cotonou, Benin Republic

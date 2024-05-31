@@ -4,7 +4,7 @@
 
 
 ![LinkedIn](assets/LinkedIn.jpg)
-**I am Praise Amonye**
+                 **Praise Amonye**
 - **Email:** amonyepraise@gmail.com
 
 ## About Me

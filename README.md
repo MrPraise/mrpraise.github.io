@@ -2,9 +2,8 @@
 
 # **Professional Portfolio**
 
+###**Amonye Praise**
 
-![LinkedIn](assets/LinkedInorg.jpg)
-                 **Praise Amonye**
 - **Email:** amonyepraise@gmail.com
 
 ## About Me

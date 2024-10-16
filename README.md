@@ -2,7 +2,7 @@
 
 # **Professional Portfolio**
 
-###**Amonye Praise**
+## **Amonye Praise**
 
 - **Email:** amonyepraise@gmail.com
 

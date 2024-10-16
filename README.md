@@ -2,7 +2,7 @@
 
 # **Professional Portfolio**
 ![LinkedIn](assets/LinkedIn_resized_for_GitHub.jpg)
-                          **Praise Amonye**
+**Praise Amonye**
 
 - **Email:** amonyepraise@gmail.com
 
